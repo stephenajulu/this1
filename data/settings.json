@@ -4,8 +4,8 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "About",
+          "slug": "/about"
         }
       ]
     },
@@ -14,11 +14,11 @@
       "topics": [
         {
           "title": "Alphabetically Sorted",
-          "slug": "alphabetically-sorted"
+          "slug": "/alphabetically-sorted"
         },
         {
-          "title": "Sorted by Symptom",
-          "slug": "symtops"
+          "title": "Sorted by Symptom ",
+          "slug": "/symptom"
         }
       ]
     }
