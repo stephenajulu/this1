@@ -32,14 +32,14 @@ export default {
   },
   data() {
     return {
-      description: 'is a Tropical Health Information System that aims to solve a lack of information during diagnosis and treatment through our database that holds information related to tropical diseases, signs, symptoms, their possible solutions(both pharmacetical or herbal), available vaccines, and more.'
+      description: 'is a Tropical Health Information System that holds data on Tropical Health Related Issues/Diseases '
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'THIS is a Tropical Health Information System that holds data on Tropical Health Related Issues/Diseases  ' }
+        { key: 'description', name: 'description', content: 'is a Tropical Health Information System that holds data on Tropical Health Related Issues/Diseases' }
       ]
     }
   }
