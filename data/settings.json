@@ -10,15 +10,15 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Dieases",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Alphabetically Sorted",
+          "slug": "alphabetically-sorted"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Sorted by Symptom",
+          "slug": "symtops"
         }
       ]
     }
